@@ -37,6 +37,8 @@ This is a simple console-based **Student Management System (SMS)** developed in 
    java StudentManagement
 5. Follow the on-screen menu prompts to manage student records.
 
+--- 
+
 ## File Structure
 
 StudentManagement.java - Main program handling menu, input/output, and file operations.
